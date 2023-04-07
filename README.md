@@ -1,7 +1,7 @@
 
 <h1>Privacy Policy</h1>
 <hr>
-EasyDigital recognizes that privacy is significant. This Privacy Policy applies to all apps (Android & IOS) under the publisher name of Easy Digital Apps. We has created this Policy to explain our privacy practices so you can understand what information about you is collected, used and disclosed. We collect information from you in order to provide corresponding service and better user experience. With your consent of this Privacy Policy, your usage, statistics, input while using our apps would be collected.
+<b>EasyDigital</b> recognizes that privacy is significant. This Privacy Policy applies to all apps (Android & IOS) under the publisher name of Easy Digital Apps. We has created this Policy to explain our privacy practices so you can understand what information about you is collected, used and disclosed. We collect information from you in order to provide corresponding service and better user experience. With your consent of this Privacy Policy, your usage, statistics, input while using our apps would be collected.
 
 <h2>Information Collection and Use</h2>
 
